@@ -64,5 +64,5 @@ This project is ideal for:
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/LSTM-stock-price-prediction.git
+   git clone https://github.com/Shivam-26102003/LSTM-stock-price-prediction.git
    cd LSTM-stock-price-prediction
