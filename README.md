@@ -25,7 +25,7 @@ Predicting stock prices is a challenging task due to their highly non-linear and
 
 ## 📊 Sample Results
 
-![Sample Prediction Plot](images/sample_prediction.png) <!-- Replace with your actual image path if available -->
+![Sample Prediction Plot](images/sample_prediction.png.png) <!-- Replace with your actual image path if available -->
 
 - *The above plot demonstrates the model’s ability to fit the historical prices and forecast future trends.*
 
@@ -93,6 +93,13 @@ Aspiring data scientist & machine learning enthusiast with a passion for tacklin
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+
+## 📜 License
+
+[MIT](LICENSE)
 
 ---
 
